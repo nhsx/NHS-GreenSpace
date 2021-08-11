@@ -1,3 +1,5 @@
+⚠️ This repository has been deprecated and is now read only. NHSX PhD Internship Projects are now available here - https://github.com/nhsx/nhsx-internship-projects
+
 # NHS GreenSpace
 
 **Keywords:** Images, Computer Vision, Image Recognition, Semantic Segmentation
